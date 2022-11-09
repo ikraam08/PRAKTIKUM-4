@@ -206,4 +206,4 @@ public class Utama {
 }
 ```
 * *Hasil output program:*
-* 
+![gambar 1](screenshot/17.png)
